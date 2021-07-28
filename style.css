@@ -125,6 +125,7 @@ main
     margin: 3rem 2rem;
     border-radius: 1rem;
     padding: 0.5rem;
+    box-shadow: 6px 5px 0px rgba(49, 49, 49, 0.209);
 }
 
 .card-info h2
